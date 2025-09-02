@@ -1,4 +1,4 @@
-name: vite-react-typescript-starter
+name: practices
 
 on:
   workflow_dispatch:
